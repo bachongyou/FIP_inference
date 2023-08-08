@@ -6,6 +6,11 @@ for evaluation
 
 our data preprocessing is shown as `preprocess.py`
 
+## data download 
+before running the code, you may need to download ckpt.zip and data.zip from https://drive.google.com/drive/folders/1rxYTv5j8G-10Sxy1gwmZrP-NUHJPVqyo?usp=drive_link
+
+and unzip them to the folder ./ckpt and ./data respectively。
+
 ## data explain:
 
 >_dip_betas.pt_: 
