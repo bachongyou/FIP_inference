@@ -35,7 +35,8 @@ including: 'acc' for data of accelerometer, 'ori' for data of gyroscope, 'pose' 
 >>>smplh
 >>>
 
-** notice **
+**notice** 
+The term "gender" used in the dataset and code refers to the same variable as the term "sex" mentioned in the manuscript.
 
 ## demo video
 for demo video, please refer to https://youtu.be/9jyCHrsTVt8
