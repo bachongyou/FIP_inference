@@ -35,5 +35,7 @@ including: 'acc' for data of accelerometer, 'ori' for data of gyroscope, 'pose' 
 >>>smplh
 >>>
 
+** notice **
+
 ## demo video
 for demo video, please refer to https://youtu.be/9jyCHrsTVt8
