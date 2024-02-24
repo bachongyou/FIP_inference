@@ -8,7 +8,7 @@ our data preprocessing is shown as `preprocess.py`
 
 ## data download 
 before running the code, you may need to download ckpt.zip and data.zip from https://drive.google.com/drive/folders/1rxYTv5j8G-10Sxy1gwmZrP-NUHJPVqyo?usp=drive_link
-
+or from Figshare "xiao, xuan; wang, Jiangjian; Feng, Pingfa; Gong, Ao; Zhang, Xiangyu; Zhang, Jianfu (2024). Test dataset and checkpoint of the paper: Fast Human Motion Reconstruction from Sparse IMUs considering the human shape. figshare. Dataset. https://doi.org/10.6084/m9.figshare.25282732"
 and unzip them to the folder ./ckpt and ./data respectively。
 
 ## data explain:
