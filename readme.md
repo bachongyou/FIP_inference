@@ -40,3 +40,9 @@ The term "gender" used in the dataset and code refers to the same variable as th
 
 ## demo video
 for demo video, please refer to https://youtu.be/9jyCHrsTVt8
+
+## Citation
+If you find the project helpful, please consider citing us:
+
+Xiao, X., Wang, J., Feng, P. et al. Fast Human Motion reconstruction from sparse inertial measurement units considering the human shape. Nat Commun 15, 2423 (2024). https://doi.org/10.1038/s41467-024-46662-5
+
